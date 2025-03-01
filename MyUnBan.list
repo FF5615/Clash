@@ -4,3 +4,4 @@
 DOMAIN-SUFFIX,todesk.com
 
 # IP
+IP-CIDR,8.133.255.231/32,no-resolve
